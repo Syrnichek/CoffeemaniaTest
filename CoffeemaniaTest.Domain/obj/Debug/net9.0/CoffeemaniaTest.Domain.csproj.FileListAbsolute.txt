@@ -1,0 +1,11 @@
+E:\Repos\LabTasks\CoffeemaniaTest\CoffeemaniaTest.Domain\bin\Debug\net9.0\CoffeemaniaTest.Domain.deps.json
+E:\Repos\LabTasks\CoffeemaniaTest\CoffeemaniaTest.Domain\bin\Debug\net9.0\CoffeemaniaTest.Domain.dll
+E:\Repos\LabTasks\CoffeemaniaTest\CoffeemaniaTest.Domain\bin\Debug\net9.0\CoffeemaniaTest.Domain.pdb
+E:\Repos\LabTasks\CoffeemaniaTest\CoffeemaniaTest.Domain\obj\Debug\net9.0\CoffeemaniaTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\LabTasks\CoffeemaniaTest\CoffeemaniaTest.Domain\obj\Debug\net9.0\CoffeemaniaTest.Domain.AssemblyInfoInputs.cache
+E:\Repos\LabTasks\CoffeemaniaTest\CoffeemaniaTest.Domain\obj\Debug\net9.0\CoffeemaniaTest.Domain.AssemblyInfo.cs
+E:\Repos\LabTasks\CoffeemaniaTest\CoffeemaniaTest.Domain\obj\Debug\net9.0\CoffeemaniaTest.Domain.csproj.CoreCompileInputs.cache
+E:\Repos\LabTasks\CoffeemaniaTest\CoffeemaniaTest.Domain\obj\Debug\net9.0\CoffeemaniaTest.Domain.dll
+E:\Repos\LabTasks\CoffeemaniaTest\CoffeemaniaTest.Domain\obj\Debug\net9.0\refint\CoffeemaniaTest.Domain.dll
+E:\Repos\LabTasks\CoffeemaniaTest\CoffeemaniaTest.Domain\obj\Debug\net9.0\CoffeemaniaTest.Domain.pdb
+E:\Repos\LabTasks\CoffeemaniaTest\CoffeemaniaTest.Domain\obj\Debug\net9.0\ref\CoffeemaniaTest.Domain.dll
